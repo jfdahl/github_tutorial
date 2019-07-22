@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m 'initial commit'
+git push
+
+git branch                      # Show available branches
+git brach branch_name1          # Create new branch
+git checkout branch_name        # Switch to a branch
+gitcheckout -b branch_name2     # Create and switch to a new branch
+
+git pull                        # Pull repo updates to the local copy
